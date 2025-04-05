@@ -1,0 +1,6 @@
+{
+    "db": "project_db",
+    "mongo_url": "mongodb+srv://isbah:5Do3z8X2oTXNeEab@python-db.ua5uu.mongodb.net/",
+    "collection": "weather_db",
+    "open_whether_key": "51d387821782a1f1ead2ea1792e20625"
+}
